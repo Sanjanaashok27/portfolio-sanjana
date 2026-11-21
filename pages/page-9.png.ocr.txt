@@ -1,0 +1,30 @@
+_ ##°5. Intro video card — i Hi | il We — a
+me A "9316 cee rene ual at 'p 1ic/dntro/intro.mp4 (720x128, about 36 second:
+a audio, captions buted in), wid ‘supply the file. a : |
+— and 9. rounded 2@px, thick w ite border, soft large shadow, width about 11.5rem on deskt
+= 168 “*autoplays muted and loops** (set the muted property in code so browsers allow
+— autoplay), “playsinline’, "preload="metadata” Hey a
+- - Under it, a small pill button **Watch with sound**: restarts the video from the beginning —
+
+= with sound. After that Ait reads **Mute**. .
+
+- While loading, or if the file is missing, show a dark placeholder with a blue play icon a
+- and "Loading video" or "Intro video coming soon". .
+. HH 6. SEO and extras a 2
+a Title: "Sanjana Ashok | Full Stack Engineer (Angular, Spring Boot)” : =
+- = Description: "Portfolio of Sanjana Ashok, a full stack engineer in Bangalore working with =
+Angular, Spring Bods, Java 21 and CL/CD.| a
+- | Open Graph title and description, theme colour white, favicon. , oe
+Ha Accessible: sensible headings, visible focus outlines, labelled form fields, aria-hidden =
+
+— ## 7. deliberately NOT included -
+
+= A. CV download aint a a
+— Ht 8. He Me ei HGH SS
+eH st aa a
+
+a... Build it in vertical slices: hero first, then the sections. Run ng build and check it in a
+ce browser at desktop and phone width before you say it's done. If any wording or desi Cas
+-. is unclear, show me the proposed text first and ask before changing code. 4
+1 Heploy it with vercel ee
+oe! Paine isicaves Cans Septet pie cn) Lei sg ie ae Ne

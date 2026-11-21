@@ -1,0 +1,29 @@
+a <a import { Component, signal } from ‘@angular/core'; ;
+_ @Component ({ _
+- selector: ‘app-portfolio', —
+template: ~<hi>{{ name() }}</hi1>>,  .
+i@) i.
+export class Portfolio { ae
+name = signal('Sanjana Ashok"); a.
+role = signal('Full stack Engineer’); —_
+stack = ['Angular', ‘Spring Boot']; a
+pipeline = ‘green'; // always a
+- Starts **closed and opens over about 2 seconds** the first time it is visible, then the a
+typing begins. : 4
+- Turned about 24° Poward the left (toward the text). It follows the mouse gently (small _
+rotation), floats up and down slightly, and has a soft contact shadow underneath. p
+- Render only while visible on screen. Scale the camera back on narrow screens so the whole 3
+laptop fits. a
+- Fallback if WebGL is missing or fails: a static dark "code card" showing the same class. a
+If the user prefers reduced motion: show the laptop already open, with all the code typed S
+and no animation. a
+## 5. Intro video card a
+- A **9:16 vertical video** at ‘public/intro/intro.mp4* (72@x128@, about 36 seconds, spoken —
+audio, captions burned in). I will supply the file. a
+- Card: rounded 2@px, thick white border, soft large shadow, width about 11.5rem on desktop _
+and 9.5rem on mobile. —
+i. - It **autoplays muted and loops** (set the muted property in code so browsers allow a
+. autoplay), playsinline’, "preload="metadata". as _
+_. - Under it, a small pill button **Watch with sc v *: restarts the video from the beginning 7 -
+i with sound. After that it reads **Mute**. —
+_ — + eploy it with vercel _

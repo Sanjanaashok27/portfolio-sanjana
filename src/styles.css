@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,600;1,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap');
+
+:root {
+  --background: #ffffff;
+  --soft: #f5f7fa;
+  --text: #0f172a;
+  --muted: #475569;
+  --secondary: #94a3b8;
+  --border: #e2e8f0;
+  --accent: #1d4ed8;
+  --accent-hover: #1e40af;
+  --soft-blue: #eff6ff;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 80px; }
+body { margin: 0; color: var(--text); background: var(--background); font-family: Inter, sans-serif; font-size: 16px; line-height: 1.65; }
+a { color: inherit; }
+button, input, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #93c5fd; outline-offset: 3px; }

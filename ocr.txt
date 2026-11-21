@@ -1,0 +1,310 @@
+===== page-1.png.ocr =====
+, ee a ee Chae **Full Le is
+- oo ot ge portfolio webs: t, design system : a
+a oe co ene a -page po onten 2
+Bde pr one, SOs ot)**. Use the : a
+il rei + Spring Boot)* pai .
+a re Angular Re eee vi e it wor and a
+. eh ee fin nents, signals, data file —
+| _ ce Tech and hosting tandalone compon ite text in one dle under about -
+: 7 ls ib test, s all si : initial ean : i
+: acetate (la e 3D scene. Keep dit it easily. Keep the initia _
+a bs js** for on i I cane aint. -—
+i fe e*ihree.js** /profile.ts’) so ver blocks first p ild, output i
+ee ee rc/app/data ily so it ne ~ Cnom canine a
+- A ' Three.j . cel.js rains ef: oe
+a = Load ith a ‘ver ), **JetB a.
+oo a 160 kB. - free, on de on GitHub. ings), **Inte a
+ll ing: free, or ay Code dings), a
+a - Host: ; io/browse nces ling. a
+_ ie cy A tfolio ; : **Erau scrol Pee
+. a. ‘ anor m Googld.Fonts: ith no sideways —
+a... eg ~ Fonts fre k on phon lients, no a
+| ae ay ah | a j
+Pee. a ey (coc AN onsive. -blue acce - a
+a. i ay 7 Fu viril| Ha ight theme, one : ae
+Se He ae Ha i om dern. Ligh .
+oo , i: ee Ha Ta si gn sys ional, mo ii. ee
+ee Hil) nit tl rofessi no emoj oe)
+a a Hi bin i 10 4 Aor p a
+a i i) HA ions “#F5F7FA d text >#94A3B8 ? a
+a a i ETE a) "Genre : 5569 , ae
+ea el 1 Te He Lours* i| ’ i
+a | apcetour oun 1 #FFFFF i ary text # *#EFFAFF ) ae
+ae is ack ai AE hil seco int ae a
+i | “Text ij intun wah “#1E40AF>, soft ieee slightly —
+i order ei > #IDAEDS” ( **Fraunces**, w ht 508, in blue.
+a. ae Pe Vy, titles, r my name ra a
+oo a my a shal ereuiine junde alae —
+ce ioe name, | niet ai ae | " = a
+oe | Sip acter seine a uate " i Sonne
+===== page-2.png.ocr =====
+i **1ype** a
+le a Hs : a
+eee Headings (name, section titl i : . Pt:
+a PP letter a, nt ‘ ne card titles, Hee a) **Fraunces**, weight 600, slightly
+- Phe Fae @ line under my name is Fraunces italic, weight 50@, in blue.
+= - Body: **Inter** 16px, line height 1.65. .
+
+4 Small uppercase labels above sections: Inter 600, ®.78rem, wide letter spacing, blue. i.
+
+i - Laptop screen code: JetBrains Mono. —
+**Shapes and layout** "
+- Content width max 72rem with 1.25rem side margins. Section padding about 6.5rem top and —
+bottom on desktop, less on mobile. -
+- Alternate section backgrounds: white, soft gray, white, soft gray and so on. —
+- Cards: white, 1px border, 16px radius, very light shadow, 1.6rem padding. _.
+- Buttons: pill shaped. Primary is solid blue with white text. Ghost is transparent with a =
+gray border. Small hover lift. s
+- Skill and tech atose: small pills, soft gray background, 1px border. =
+- Sticky top nav, 64px high, white with slight transparency and blur, 1px bottom border. a
+Left: my name. Centre/right: About, Experience, Projects, Skills, Credentials. Far right: a =
+small blue "Contact" button. Under 72@px, hide the links and keep the name and the Contact —
+button. =
+**Motion** (all of it off when the user prefers reduced motion) a
+- Sections fade in and lift about 26px as they scroll into view (@.7s), with small staggered a
+delays on grids. _
+
+ee - Cards tilt slightly in 3D toward the mouse on hover (perspective 9@@px, up to about 7° and
+
+7. 9°) with a larger soft shadow. Mouse only, not touch. : LS
+
+. : - Smooth scrolling for anchor links, with an offset for the sticky nav. _
+a _‘ ## 3. Page structure and content -
+: — #i### Hero (first screen, two columns on desktop, | cked on mobile) — —
+Left column: r -
+8 small nal] with a nulsing grean dot: **Onan to full ctack rales a
+Be gerioy it with vercel | =
+===== page-3.png.ocr =====
+a ee aia OAS TAL) ee ete si ie
+aia ee —-
+Ht Hero (first screen, two columns on desktop, stacked on mobile) —.
+_ ~ Small pill with a pulsing green dot: **Open to full stack roles —
+
+- Big name: **Sanjana Ashok** | 7
+o- = 5 este K Engineer*** (italic, blue) : i
+pe Role: ***Full Stack Eng ( 2 ate, sold
+i i d Boot, and I care about clean code, .
+
+S ~ Lead text: "I build with Angular an Spring , 7
+ae and green pipelines. oe a
+: ut u 1 i jects) and **Get in touch** (g ; 7
+i - Two buttons: **View my work** (primary, links to Projects) |
+- links to Contact) ee : eS a
+i i : oot - Java .
+- A muted facts row: Bangalore, India - Cognizant - BFS - Angular - Spring i
+Right column ("stage"), about 33rem tall on desktop: 4
+Q ll large Be eracircle behind everything. 4
+**3D 1. if cribed in section 4. a
+- A **3D laptop** (Three.js) ges in the bottom-right corner, overlapping the stage. a
+- My **intro video card** (section 5) in the a _
+[ al ia ihe) : k them vertically: laptop on top, video card centre i
+
+p eo ai alia under about 96@px, sta a
+7 ae below it. a a
+4) ‘ a ae i
+a Cal ne { ae | i | | 2
+a Ht: a 4 Nu (soft gray background, two columns) _
+ee Tea i ia AT text, with the second sentence in muted gray: : _
+ee I} | da 4] ‘Lim a tu ; dlc something.” : ae
+a i ea Ain TC MATTUVAUEA ee ither wa I'm shipping i
+— ee “By night , I'm editing reels. Eith oe i
+—— oo | i iil Ha | Hi j 11 blue line icon in a soft blue rounded square:
+a HT Pe ma ing
+
+a i Right, two “cards, ati tania ae els about office life, dance and whatever's tren
+ached nl in or**: "I make Instagram re ee just with) = ae
+' | an OO SEA apa aall i if eng editing, posting: basically a release pipeline, just os
+i EES TE a ting, ing; ' oe
+Be) this week.) Plann ea : ts and
+better music.” Hi i i | La with my company's |) 2ach programs, organising even ‘a ae
+= **Volunteer**: I i ae G Ret NGOs. It's tne most rewarding “sprint” I o -|
+mu a spending time al EE an a a fe ee a ae
+is a. Ee a
+===== page-4.png.ocr =====
+- ae ha ale blue re icon ane ae blue rounded square: i
+— ae semen i aaa reels ne ince life, dance and whatever trending — a
+a 2 3 &, posting: basically a release pipeline, just with .
+o better music." ss
+- **Volunteer**: "JT help out with my company's outreach Programs, organising events and “-
+spending time with kids at Partner NGOs. It's the most rewarding “sprint™ I do." ?
+### Experience (white, vertical timeline with a blue dot) | .
+**DevOps Engineer** - Cognizant - Banking and Financial Services (BFS) - Aug 2025 — Present ——
+. Hybrid - Bangalore. Bullets (blue dot markers): a
+1. Made a core payments flow more reliable by resolving TypeScript and ESLint violations in =
+a large monorepo, cutting static-analysis debt and keeping CI lint gates stable. .
+2. Refactored E2E test utilities to eliminate flaky waits and improve reusable page-object : 3
+helpers. -
+3. Aligned service tests with production query-parameter behaviour, reducing false failures. .
+4. Enforced coding [standards through lint-remediation pipeline work and repeated quality —
+passes across feature branches. —
+>. Expanded coverage with new end-to-end scenarios and updated test data for critical user 4
+journeys. a
+6. Removed duplicate dialog type declarations and cleaned up typing inconsistencies in core es
+modules. —
+Tech chips: TypeScript, Angular, ESLint, WebdriverIO, Jest, CI/CD, Git . _
+### Projects (soft gray, 2-column grid on desktop, 1 column on mobile; first card first) a
+Fach card: small blue uppercase tag, title, italic-style tagline, bullets, tech chips, and a _—
+= _ +‘“Wiew code on GitHub +" link at the bottom (only if there is a link). —
+— : _ 1. **ATM Agent** — tag "Prototype" — "An AI assistant that turns a apart SE syste s _
+“a description into an architecture, a STRIDE threat model and an implementation plan. —
+a - Built a 3-stage pipeline with end-to-end t | ability: every compan en and ee
+— maps to threats, and every threat maps to the plan aan MG a
+===== page-5.png.ocr =====
+ea laa OC
+ee ea tiie ha au ae
+ee lt Agent** tag "Prototype" — "An AI assistant that turns a plain-text system
+description into an architecture, a STRIDE threat model and an implementation plan
+ee Bd 2 : Sigel haat Bi [ae
+— Be Built a 3-stage pipeline with end-to-end traceability: every component and data flow
+_ ~~~ ‘maps to threats, and every threat maps to the plan task that mitigates it i.
+- : Developed a Streamlit UI with auto-rendered Mermaid architecture diagrams, editable ss
+ca threat tables and phased task views. a
+i - Added a pluggable LLM provider layer (Anthropic, AWS Bedrock, Google Vertex, Azure -
+| Foundry) and developed mock-first. ——
+- Hardened against Al-specific risks: safe rendering of LLM output, prompt injection and a
+confidential data. —
+- Tech: Python, Streamlit, Claude (Anthropic SDK), STRIDE, Mermaid a
+- Link: https://github.com/Sanjanaashok27/Agent-arch-threatmodel ,
+2. **E-Commerce Platform** — tag "Personal project" — "A full-stack store with separate a
+_ admin and customer. experiences." a
+| - Designed a TS oes full-stack architecture with separate admin and customer interfaces, ss
+built for performance. -
+ed Built reusable Angular components with role-based access control, ‘cutting new-feature : sl
+: We —
+a time by 40%. _
+i td ue Tech: Angular, Spring Boot, MySQL _
+a a rh + Link: https: //github.com/Sanjanaashok27/ekart-app —
+o a 3, **Smart Hotel Booking System** — tag "Team project” — “Microservices for booking, i
+es ee Ca yi i i
+ees ey payments and room management. : es
+el Built loosely coupled microservices for booking, payments and room management, designed Se
+ee) to scale honizontally. _
+a un Integrated the Razorpay API with end-to-end transaction testing for a bug-free booking- -
+eee | tO-payment flow. =
+Me) Tech; Spring Boot, React, MySQL, Razorpay API i
+ss Link: https://github.com/Jashwanth-PV/Smart -Hotel-Booking-System ~~. -
+—. . " fact" — " ilding habits and
+See) 4. **True Habit Tracker** — tag “Personal project A personal app for building hab: a
+ee i; hi a
+tracking daily streaks." (placeholder text, no b'!lets or tech chips ye ~
+ee ; : it- . a
+——— = Link: https://github.com/Sanjanaashok27/t1 J abit-tracker a
+a et ; _—
+Heploy it with vercel - a
+===== page-6.png.ocr =====
+# Skills (white 3 groups in a responsive grid, each with a heading, a bottom border amt
+__~ **Languages: ** Java 21, TypeScript, HTML5, Css3 _
+———’ - **Frontend:** Angular, React, Reusable components, Responsive UI —
+- ~ “Backend & APIs:** Spring Boot (MVC), RESTful APIs, Microservices, MySQL “7
+- - **AI & Security:** Agentic AI workflows, Prompt engineering, Claude / Anthropic SDK, “=
+_ STRIDE threat modeling, Python, Streamlit ..
+— - **Cloud & DevOps:** Azure DevOps, CI/CD pipelines, Git & GitHub, Nx monorepos ..
+= - **Testing & Quality:** Unit testing, E2E automation, WebdriverIo, Jest, ESLint v/
+a - **Ways of working:** Agile / Scrum, Test-driven development, AI-assisted dev (Copilot) _
+- ### Credentials (soft gray, two columns) ; 3
+Certifications (simple list with divider lines, name in bold and issuer below): “
+- GitHub Copilot, AI Builder Program (internal certification) -
+: - Claude Certified |\1 Foundations, Anthropic =
+- Java Full Stack Development, Cognizant Internal Training Program, 2025 -
+° - Introduction to Cloud Computing, Cognizant Learning E
+_ Education (one card with a small blue "CGPA 8.7" badge in the corner): **BE, Information _
+— Science and Engineering**, SIC Institute of Technology, Chikballapur, Karnataka - 2021 — ; a
+a ### Contact (white, two columns) ; a
+oo Left: label “Contact", big heading **Let's talk**, then "I'm open to full stack roles, — 3
+—. _ especially on teams working with Angular and Spring Boot. Send me a note, I read _
+. everything.” Links: sanjanaashok85@gmail.com (mailto), GitHub , e
+__ https: //github. com/Sanjanaashok27, and LinkedIn (leave the URL empty so the link is hidden
+until I add it). _
+‘Right: a card with a form: Your name, Your emai \| 2ssage, and a **Send mess 2g Daa
+Posts to **Formspree** (form ID ~xwlonkzo) as sSON from the page, without 1esvioaag
+===== page-7.png.ocr =====
+ou a oe a is
+oO = Right: a card with a form: Your name, Your email, Message, and a **Send message** button.
+2 ss ~ Posts to **Formspree** (form ID “xwlonkzo>) as JSON from the page, without leaving the a
+a site. a
+~ Success text: "Thank you, your message is on its way. I'll reply soon.” ae
+= Erronm text: "Something went wrong. Please email me directly at sanjanaashok85@gmail.com. ee s
+- If no Formspree ID is set, the button opens the visitor's email app with a pre-filled ee
+draft instead. a
+### Footer _
+“© {year} Sanjana Ashok - Built with Angular and Three.js" -
+## 4. The 3D laptop (hero) ek
+Build the laptop from simple shapes in code (no model files): a
+- Silver aluminium ]Look: rounded-box base and lid, metallic material, neutral tone mapping, — i
+soft studio lighting from Three.js's “RoomEnvironment’, plus a faint blue rim light. a es
+- A dark keyboard texture drawn on a canvas (rows of rounded dark keys on a light base, plus ss ig
+ys oe e
+a trackpad outline). i : : a
+- Dark bezel and a screen showing a **code editor drawn on a canvas**: dark slate oe
+background, window dots, a tab named ‘portfolio.ts’, line numbers, syntax colours. It types 4 Ss
+out this Angular code, then holds and loops, with a blinking caret: —
+import { Component, signal } from ‘@angular/core'; : aa
+@Component({ :  -
+ae selector: ‘app-portfolio' , = —
+o template: ><h1>{{ name() }}</h1>”, a
+—— export class Portfolio { — a
+ . as name = signal('Sanjana Ashok'); i) : _
+: role = signal('Full Stack Engineer); a
+a stack = ['Angular', ‘Spring Boot']; ees
+===== page-8.png.ocr =====
+a <a import { Component, signal } from ‘@angular/core'; ;
+_ @Component ({ _
+- selector: ‘app-portfolio', —
+template: ~<hi>{{ name() }}</hi1>>,  .
+i@) i.
+export class Portfolio { ae
+name = signal('Sanjana Ashok"); a.
+role = signal('Full stack Engineer’); —_
+stack = ['Angular', ‘Spring Boot']; a
+pipeline = ‘green'; // always a
+- Starts **closed and opens over about 2 seconds** the first time it is visible, then the a
+typing begins. : 4
+- Turned about 24° Poward the left (toward the text). It follows the mouse gently (small _
+rotation), floats up and down slightly, and has a soft contact shadow underneath. p
+- Render only while visible on screen. Scale the camera back on narrow screens so the whole 3
+laptop fits. a
+- Fallback if WebGL is missing or fails: a static dark "code card" showing the same class. a
+If the user prefers reduced motion: show the laptop already open, with all the code typed S
+and no animation. a
+## 5. Intro video card a
+- A **9:16 vertical video** at ‘public/intro/intro.mp4* (72@x128@, about 36 seconds, spoken —
+audio, captions burned in). I will supply the file. a
+- Card: rounded 2@px, thick white border, soft large shadow, width about 11.5rem on desktop _
+and 9.5rem on mobile. —
+i. - It **autoplays muted and loops** (set the muted property in code so browsers allow a
+. autoplay), playsinline’, "preload="metadata". as _
+_. - Under it, a small pill button **Watch with sc v *: restarts the video from the beginning 7 -
+i with sound. After that it reads **Mute**. —
+_ — + eploy it with vercel _
+===== page-9.png.ocr =====
+_ ##°5. Intro video card — i Hi | il We — a
+me A "9316 cee rene ual at 'p 1ic/dntro/intro.mp4 (720x128, about 36 second:
+a audio, captions buted in), wid ‘supply the file. a : |
+— and 9. rounded 2@px, thick w ite border, soft large shadow, width about 11.5rem on deskt
+= 168 “*autoplays muted and loops** (set the muted property in code so browsers allow
+— autoplay), “playsinline’, "preload="metadata” Hey a
+- - Under it, a small pill button **Watch with sound**: restarts the video from the beginning —
+
+= with sound. After that Ait reads **Mute**. .
+
+- While loading, or if the file is missing, show a dark placeholder with a blue play icon a
+- and "Loading video" or "Intro video coming soon". .
+. HH 6. SEO and extras a 2
+a Title: "Sanjana Ashok | Full Stack Engineer (Angular, Spring Boot)” : =
+- = Description: "Portfolio of Sanjana Ashok, a full stack engineer in Bangalore working with =
+Angular, Spring Bods, Java 21 and CL/CD.| a
+- | Open Graph title and description, theme colour white, favicon. , oe
+Ha Accessible: sensible headings, visible focus outlines, labelled form fields, aria-hidden =
+
+— ## 7. deliberately NOT included -
+
+= A. CV download aint a a
+— Ht 8. He Me ei HGH SS
+eH st aa a
+
+a... Build it in vertical slices: hero first, then the sections. Run ng build and check it in a
+ce browser at desktop and phone width before you say it's done. If any wording or desi Cas
+-. is unclear, show me the proposed text first and ask before changing code. 4
+1 Heploy it with vercel ee
+oe! Paine isicaves Cans Septet pie cn) Lei sg ie ae Ne

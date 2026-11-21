@@ -1,0 +1,36 @@
+i **1ype** a
+le a Hs : a
+eee Headings (name, section titl i : . Pt:
+a PP letter a, nt ‘ ne card titles, Hee a) **Fraunces**, weight 600, slightly
+- Phe Fae @ line under my name is Fraunces italic, weight 50@, in blue.
+= - Body: **Inter** 16px, line height 1.65. .
+
+4 Small uppercase labels above sections: Inter 600, ®.78rem, wide letter spacing, blue. i.
+
+i - Laptop screen code: JetBrains Mono. —
+**Shapes and layout** "
+- Content width max 72rem with 1.25rem side margins. Section padding about 6.5rem top and —
+bottom on desktop, less on mobile. -
+- Alternate section backgrounds: white, soft gray, white, soft gray and so on. —
+- Cards: white, 1px border, 16px radius, very light shadow, 1.6rem padding. _.
+- Buttons: pill shaped. Primary is solid blue with white text. Ghost is transparent with a =
+gray border. Small hover lift. s
+- Skill and tech atose: small pills, soft gray background, 1px border. =
+- Sticky top nav, 64px high, white with slight transparency and blur, 1px bottom border. a
+Left: my name. Centre/right: About, Experience, Projects, Skills, Credentials. Far right: a =
+small blue "Contact" button. Under 72@px, hide the links and keep the name and the Contact —
+button. =
+**Motion** (all of it off when the user prefers reduced motion) a
+- Sections fade in and lift about 26px as they scroll into view (@.7s), with small staggered a
+delays on grids. _
+
+ee - Cards tilt slightly in 3D toward the mouse on hover (perspective 9@@px, up to about 7° and
+
+7. 9°) with a larger soft shadow. Mouse only, not touch. : LS
+
+. : - Smooth scrolling for anchor links, with an offset for the sticky nav. _
+a _‘ ## 3. Page structure and content -
+: — #i### Hero (first screen, two columns on desktop, | cked on mobile) — —
+Left column: r -
+8 small nal] with a nulsing grean dot: **Onan to full ctack rales a
+Be gerioy it with vercel | =

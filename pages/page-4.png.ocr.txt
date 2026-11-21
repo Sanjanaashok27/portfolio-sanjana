@@ -1,0 +1,28 @@
+- ae ha ale blue re icon ane ae blue rounded square: i
+— ae semen i aaa reels ne ince life, dance and whatever trending — a
+a 2 3 &, posting: basically a release pipeline, just with .
+o better music." ss
+- **Volunteer**: "JT help out with my company's outreach Programs, organising events and “-
+spending time with kids at Partner NGOs. It's the most rewarding “sprint™ I do." ?
+### Experience (white, vertical timeline with a blue dot) | .
+**DevOps Engineer** - Cognizant - Banking and Financial Services (BFS) - Aug 2025 — Present ——
+. Hybrid - Bangalore. Bullets (blue dot markers): a
+1. Made a core payments flow more reliable by resolving TypeScript and ESLint violations in =
+a large monorepo, cutting static-analysis debt and keeping CI lint gates stable. .
+2. Refactored E2E test utilities to eliminate flaky waits and improve reusable page-object : 3
+helpers. -
+3. Aligned service tests with production query-parameter behaviour, reducing false failures. .
+4. Enforced coding [standards through lint-remediation pipeline work and repeated quality —
+passes across feature branches. —
+>. Expanded coverage with new end-to-end scenarios and updated test data for critical user 4
+journeys. a
+6. Removed duplicate dialog type declarations and cleaned up typing inconsistencies in core es
+modules. —
+Tech chips: TypeScript, Angular, ESLint, WebdriverIO, Jest, CI/CD, Git . _
+### Projects (soft gray, 2-column grid on desktop, 1 column on mobile; first card first) a
+Fach card: small blue uppercase tag, title, italic-style tagline, bullets, tech chips, and a _—
+= _ +‘“Wiew code on GitHub +" link at the bottom (only if there is a link). —
+— : _ 1. **ATM Agent** — tag "Prototype" — "An AI assistant that turns a apart SE syste s _
+“a description into an architecture, a STRIDE threat model and an implementation plan. —
+a - Built a 3-stage pipeline with end-to-end t | ability: every compan en and ee
+— maps to threats, and every threat maps to the plan aan MG a

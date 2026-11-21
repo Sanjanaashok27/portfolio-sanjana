@@ -1,0 +1,41 @@
+ea laa OC
+ee ea tiie ha au ae
+ee lt Agent** tag "Prototype" — "An AI assistant that turns a plain-text system
+description into an architecture, a STRIDE threat model and an implementation plan
+ee Bd 2 : Sigel haat Bi [ae
+— Be Built a 3-stage pipeline with end-to-end traceability: every component and data flow
+_ ~~~ ‘maps to threats, and every threat maps to the plan task that mitigates it i.
+- : Developed a Streamlit UI with auto-rendered Mermaid architecture diagrams, editable ss
+ca threat tables and phased task views. a
+i - Added a pluggable LLM provider layer (Anthropic, AWS Bedrock, Google Vertex, Azure -
+| Foundry) and developed mock-first. ——
+- Hardened against Al-specific risks: safe rendering of LLM output, prompt injection and a
+confidential data. —
+- Tech: Python, Streamlit, Claude (Anthropic SDK), STRIDE, Mermaid a
+- Link: https://github.com/Sanjanaashok27/Agent-arch-threatmodel ,
+2. **E-Commerce Platform** — tag "Personal project" — "A full-stack store with separate a
+_ admin and customer. experiences." a
+| - Designed a TS oes full-stack architecture with separate admin and customer interfaces, ss
+built for performance. -
+ed Built reusable Angular components with role-based access control, ‘cutting new-feature : sl
+: We —
+a time by 40%. _
+i td ue Tech: Angular, Spring Boot, MySQL _
+a a rh + Link: https: //github.com/Sanjanaashok27/ekart-app —
+o a 3, **Smart Hotel Booking System** — tag "Team project” — “Microservices for booking, i
+es ee Ca yi i i
+ees ey payments and room management. : es
+el Built loosely coupled microservices for booking, payments and room management, designed Se
+ee) to scale honizontally. _
+a un Integrated the Razorpay API with end-to-end transaction testing for a bug-free booking- -
+eee | tO-payment flow. =
+Me) Tech; Spring Boot, React, MySQL, Razorpay API i
+ss Link: https://github.com/Jashwanth-PV/Smart -Hotel-Booking-System ~~. -
+—. . " fact" — " ilding habits and
+See) 4. **True Habit Tracker** — tag “Personal project A personal app for building hab: a
+ee i; hi a
+tracking daily streaks." (placeholder text, no b'!lets or tech chips ye ~
+ee ; : it- . a
+——— = Link: https://github.com/Sanjanaashok27/t1 J abit-tracker a
+a et ; _—
+Heploy it with vercel - a

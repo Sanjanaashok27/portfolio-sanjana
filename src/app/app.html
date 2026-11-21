@@ -1,0 +1,146 @@
+<header class="topbar">
+  <a class="brand" href="#top" aria-label="Sanjana Ashok home">Sanjana Ashok</a>
+  <nav class="navlinks" aria-label="Primary navigation">
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#credentials">Credentials</a>
+  </nav>
+  <a class="button small" href="#contact">Contact</a>
+</header>
+
+<main id="top">
+  <section class="hero section">
+    <div class="hero-copy reveal">
+      <div class="availability"><span></span> Open to full stack roles</div>
+      <h1>Sanjana <strong>Ashok</strong></h1>
+      <p class="role">Full Stack Engineer</p>
+      <p class="lead">{{ profile.lead }}</p>
+      <div class="hero-actions">
+        <a class="button" href="#projects">View my work</a>
+        <a class="button ghost" href="#contact">Get in touch</a>
+      </div>
+      <div class="facts"><span>Bangalore, India</span><i></i><span>Cognizant</span><i></i><span>BFS</span><i></i><span>Angular</span><i></i><span>Spring Java</span></div>
+    </div>
+    <div class="stage reveal" aria-label="3D laptop and intro video">
+      <div class="stage-glow"></div>
+      <div #laptopStage class="laptop-stage"></div>
+      <article class="video-card">
+        @if (!videoMissing()) {
+          <video #introVideo muted autoplay loop playsinline preload="metadata" (error)="videoError()">
+            <source src="intro/IMG_1052.MP4" type="video/mp4">
+          </video>
+        } @else {
+          <div class="video-placeholder">
+            <span class="play-icon" aria-hidden="true">▶</span>
+            <small>Intro video coming soon</small>
+          </div>
+        }
+        <button class="video-button" type="button" (click)="toggleSound()">{{ soundEnabled() ? 'Mute' : 'Watch with sound' }}</button>
+      </article>
+    </div>
+  </section>
+
+  <section id="about" class="section soft about reveal">
+    <div class="section-heading"><span>01</span><h2>About</h2></div>
+    <div class="about-grid">
+      <div class="about-copy">
+        <p class="about-lead">I make reliable systems feel simple.</p>
+        <p>By day, I'm shipping Angular and Spring Boot work at Cognizant. By night, I'm editing reels. Either way I'm making something better.</p>
+      </div>
+      <div class="about-cards">
+        <article class="info-card tilt"><span class="icon">reels</span><div><h3>Creator</h3><p>I make Instagram reels—planning, filming, editing, posting: basically a release pipeline, just with better music.</p></div></article>
+        <article class="info-card tilt"><span class="icon">♥</span><div><h3>Volunteer</h3><p>I help with my company's outreach programs, organising events and spending time with kids at partner NGOs. It's the most rewarding sprint I do.</p></div></article>
+      </div>
+    </div>
+  </section>
+
+  <section id="experience" class="section experience reveal">
+    <div class="section-heading"><span>02</span><h2>Experience</h2></div>
+    <div class="timeline">
+      <article class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-main">
+          <h3>DevOps Engineer</h3>
+          <p class="timeline-org">Cognizant · Banking and Financial Services (BFS)</p>
+          <p class="timeline-meta">Aug 2025 — Present · Hybrid · Bangalore</p>
+          <ul>
+            @for (item of experience; track item) { <li>{{ item }}</li> }
+          </ul>
+          <div class="chips"><span>TypeScript</span><span>Angular</span><span>ESLint</span><span>WebdriverIO</span><span>Jest</span><span>CI/CD</span><span>Git</span></div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section id="projects" class="section soft projects reveal">
+    <div class="section-heading"><span>03</span><h2>Projects</h2></div>
+    <div class="project-grid">
+      @for (project of projects; track project.title) {
+        <article class="project-card tilt">
+          <span class="tag">{{ project.tag }}</span>
+          <h3>{{ project.title }}</h3>
+          <p class="project-tagline">{{ project.tagline }}</p>
+          @if (project.bullets.length) {
+            <ul>@for (bullet of project.bullets; track bullet) { <li>{{ bullet }}</li> }</ul>
+          }
+          @if (project.tech.length) { <div class="chips">@for (tech of project.tech; track tech) { <span>{{ tech }}</span> }</div> }
+          @if (project.link) { <a class="code-link" href="{{ project.link }}" target="_blank" rel="noopener noreferrer">View code on GitHub <b>↗</b></a> }
+        </article>
+      }
+    </div>
+  </section>
+
+  <section id="skills" class="section skills reveal">
+    <div class="section-heading"><span>04</span><h2>Skills</h2></div>
+    <div class="skill-grid">
+      <article><h3>Languages</h3><div class="chips"><span>Java 21</span><span>TypeScript</span><span>HTML5</span><span>CSS3</span></div></article>
+      <article><h3>Frontend</h3><div class="chips"><span>Angular</span><span>React</span><span>Reusable components</span><span>Responsive UI</span></div></article>
+      <article><h3>Backend & APIs</h3><div class="chips"><span>Spring Boot</span><span>MVC</span><span>RESTful APIs</span><span>Microservices</span><span>MySQL</span></div></article>
+      <article><h3>AI & Security</h3><div class="chips"><span>Agentic AI workflows</span><span>Prompt engineering</span><span>Claude</span><span>Anthropic SDK</span><span>STRIDE</span><span>Python</span><span>Streamlit</span></div></article>
+      <article><h3>Cloud & DevOps</h3><div class="chips"><span>Azure DevOps</span><span>CI/CD pipelines</span><span>Git & GitHub</span><span>Nx monorepos</span></div></article>
+      <article><h3>Testing & Quality</h3><div class="chips"><span>Unit testing</span><span>E2E automation</span><span>WebdriverIO</span><span>Jest</span><span>ESLint</span></div></article>
+      <article><h3>Ways of working</h3><div class="chips"><span>Agile / Scrum</span><span>Test-driven development</span><span>AI-assisted dev</span><span>Copilot</span></div></article>
+    </div>
+  </section>
+
+  <section id="credentials" class="section soft credentials reveal">
+    <div class="section-heading"><span>05</span><h2>Credentials</h2></div>
+    <div class="credential-grid">
+      <div class="certifications">
+        <article><h3>GitHub Copilot</h3><p>AI Builder Program (internal certification)</p></article>
+        <article><h3>Claude Certified</h3><p>Claude Certified Foundations, Anthropic</p></article>
+        <article><h3>Java Full Stack Development</h3><p>Cognizant Internal Training Program · 2025</p></article>
+        <article><h3>Introduction to Cloud Computing</h3><p>Cognizant Learning</p></article>
+      </div>
+      <article class="education tilt">
+        <span class="cgpa">CGPA 8.7</span>
+        <p class="tag">Education</p>
+        <h3>BE, Information Science and Engineering</h3>
+        <p>SIC Institute of Technology, Chikballapur, Karnataka · 2021</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact reveal">
+    <div class="contact-copy">
+      <div class="section-heading"><span>06</span><h2>Contact</h2></div>
+      <h3>Let's talk</h3>
+      <p>I'm open to full stack roles, especially on teams working with Angular and Spring Boot. Send me a note, I read everything.</p>
+      <div class="contact-links">
+        <a href="mailto:sanjanaashok85@gmail.com">sanjanaashok85@gmail.com</a>
+        <a href="https://github.com/Sanjanaashok27" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </div>
+    </div>
+    <form class="contact-card" (submit)="submitForm($event)">
+      <label>Your name<input name="name" autocomplete="name" required></label>
+      <label>Your email<input name="email" type="email" autocomplete="email" required></label>
+      <label>Message<textarea name="message" rows="5" required></textarea></label>
+      <button class="button" type="submit" [disabled]="formState() === 'sending'">{{ formState() === 'sending' ? 'Sending...' : 'Send message' }}</button>
+      @if (formStatus()) { <p class="form-status" [class.error]="formState() === 'error'">{{ formStatus() }}</p> }
+    </form>
+  </section>
+</main>
+
+<footer><p>© {{ year }} Sanjana Ashok · Built with Angular and Three.js</p></footer>

@@ -1,0 +1,25 @@
+# Skills (white 3 groups in a responsive grid, each with a heading, a bottom border amt
+__~ **Languages: ** Java 21, TypeScript, HTML5, Css3 _
+———’ - **Frontend:** Angular, React, Reusable components, Responsive UI —
+- ~ “Backend & APIs:** Spring Boot (MVC), RESTful APIs, Microservices, MySQL “7
+- - **AI & Security:** Agentic AI workflows, Prompt engineering, Claude / Anthropic SDK, “=
+_ STRIDE threat modeling, Python, Streamlit ..
+— - **Cloud & DevOps:** Azure DevOps, CI/CD pipelines, Git & GitHub, Nx monorepos ..
+= - **Testing & Quality:** Unit testing, E2E automation, WebdriverIo, Jest, ESLint v/
+a - **Ways of working:** Agile / Scrum, Test-driven development, AI-assisted dev (Copilot) _
+- ### Credentials (soft gray, two columns) ; 3
+Certifications (simple list with divider lines, name in bold and issuer below): “
+- GitHub Copilot, AI Builder Program (internal certification) -
+: - Claude Certified |\1 Foundations, Anthropic =
+- Java Full Stack Development, Cognizant Internal Training Program, 2025 -
+° - Introduction to Cloud Computing, Cognizant Learning E
+_ Education (one card with a small blue "CGPA 8.7" badge in the corner): **BE, Information _
+— Science and Engineering**, SIC Institute of Technology, Chikballapur, Karnataka - 2021 — ; a
+a ### Contact (white, two columns) ; a
+oo Left: label “Contact", big heading **Let's talk**, then "I'm open to full stack roles, — 3
+—. _ especially on teams working with Angular and Spring Boot. Send me a note, I read _
+. everything.” Links: sanjanaashok85@gmail.com (mailto), GitHub , e
+__ https: //github. com/Sanjanaashok27, and LinkedIn (leave the URL empty so the link is hidden
+until I add it). _
+‘Right: a card with a form: Your name, Your emai \| 2ssage, and a **Send mess 2g Daa
+Posts to **Formspree** (form ID ~xwlonkzo) as sSON from the page, without 1esvioaag

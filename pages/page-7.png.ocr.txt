@@ -1,0 +1,28 @@
+ou a oe a is
+oO = Right: a card with a form: Your name, Your email, Message, and a **Send message** button.
+2 ss ~ Posts to **Formspree** (form ID “xwlonkzo>) as JSON from the page, without leaving the a
+a site. a
+~ Success text: "Thank you, your message is on its way. I'll reply soon.” ae
+= Erronm text: "Something went wrong. Please email me directly at sanjanaashok85@gmail.com. ee s
+- If no Formspree ID is set, the button opens the visitor's email app with a pre-filled ee
+draft instead. a
+### Footer _
+“© {year} Sanjana Ashok - Built with Angular and Three.js" -
+## 4. The 3D laptop (hero) ek
+Build the laptop from simple shapes in code (no model files): a
+- Silver aluminium ]Look: rounded-box base and lid, metallic material, neutral tone mapping, — i
+soft studio lighting from Three.js's “RoomEnvironment’, plus a faint blue rim light. a es
+- A dark keyboard texture drawn on a canvas (rows of rounded dark keys on a light base, plus ss ig
+ys oe e
+a trackpad outline). i : : a
+- Dark bezel and a screen showing a **code editor drawn on a canvas**: dark slate oe
+background, window dots, a tab named ‘portfolio.ts’, line numbers, syntax colours. It types 4 Ss
+out this Angular code, then holds and loops, with a blinking caret: —
+import { Component, signal } from ‘@angular/core'; : aa
+@Component({ :  -
+ae selector: ‘app-portfolio' , = —
+o template: ><h1>{{ name() }}</h1>”, a
+—— export class Portfolio { — a
+ . as name = signal('Sanjana Ashok'); i) : _
+: role = signal('Full Stack Engineer); a
+a stack = ['Angular', ‘Spring Boot']; ees
